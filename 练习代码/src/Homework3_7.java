@@ -2,9 +2,9 @@ public class Homework3_7 {
     public static void main(String[] args){
         int i = 37;
         if(PanSu(i)){
-            System.out.println(i + "是素数");
+            System.out.println(i + "这是素数");
         }else{
-            System.out.println(i + "不是素数");
+            System.out.println(i + "这不是素数");
         }
     }
 
